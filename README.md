@@ -1,4 +1,4 @@
-# Hi, I'm Gabriele 👋
+# Hi, I'm Gabriele 🤙🏼
 
 I am a **Performance Marketing Team Lead** based in Lisbon, bridging the gap between high-budget user acquisition and lightweight AI automation.
 
