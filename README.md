@@ -11,7 +11,7 @@ Outside of Ads Manager, I am a chronic tinkerer. I spend my time experimenting w
 ### 🛠️ Current Stack & Interests
 - **AdTech:** Meta Ads, Google Ads, TikTok Ads, GA4
 - **Automation:** Google Apps Script, API integrations, prompt engineering, local LLMs
-- **Off-Screen:** Endurance running and training for my next 10K
+- **Off-Screen:** Endurance running and training for my next Half Marathon
 
 ---
 **📫 Let's connect**
